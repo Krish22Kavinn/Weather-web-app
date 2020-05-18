@@ -1,0 +1,14 @@
+DIRECTIONS FOR USE OF WEB APP
+
+This is a Simple Weather application created using JavaScript and OpenWeatherMap API
+
+The OpenWeatherMap API key is provided by the official site which allows 60 refreshes per minute
+
+
+STEP 1:
+	Search for a city in the text area "Search for a City"  and click on Submit Button
+	
+	It can either be a city name "CHENNAI" or for more precise weather report it can be associated along with city code
+	For example : "CHENNAI,600017"
+
+	An AJAX request is performed every time a search is performed
